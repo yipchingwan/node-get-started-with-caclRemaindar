@@ -1,28 +1,27 @@
 # Node Js Get Started
 
-
-## Bueiness Requirement
+## Business Requirement
 
 This practice we should complete by Node which is a Javascript runtime in server-side not browser. 
 
-## Practie Challenge
-- How to export and import module in node
+## Practice Challenge
+- How to export and import a module in node
 - What is npm and package.json
-- Why Javascript can not run in browser
+- Why Javascript cannot run the in browser
 
 
-## Practie Requirement
+## Practice Requirement
 
 - Install Node and Npm in your local machine
 - Make all test pass by npm test
 
-### Environment
+#### Environment
 Node Js
 NPM
 
-### Begin
+#### Begin
 
-Fork this repo to your own repos in Github
+Fork this repo to your own repo site in Github
 
 Open your terminal, change to any path and clone this repository:
 ```
