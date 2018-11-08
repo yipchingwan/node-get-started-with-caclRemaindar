@@ -7,7 +7,7 @@ This practice we should complete by Node which is a Javascript runtime in server
 ## Practice Challenge
 - How to export and import a module in node
 - What is npm and package.json
-- Why Javascript cannot run the in browser
+- Why Javascript can still work without the browser
 
 
 ## Practice Requirement
