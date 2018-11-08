@@ -16,8 +16,8 @@ This practice we should complete by Node which is a Javascript runtime in server
 - Make all test pass by npm test
 
 #### Environment
-Node Js
-NPM
+- Node Js
+- NPM
 
 #### Begin
 
